@@ -1,4 +1,4 @@
-##Recriação da página inicial do instagram.:page_with_curl:
+##Recriação da página inicial do instagram.:page_with_curl##:
 
 *O projeto foi desenvolvido passo a passo durante as vídeos aulas com a Gabriela pinheiro na Digital innovation one.*
 
